@@ -5,13 +5,13 @@ st.markdown("Oh, You Started A New Project? Well Let's Fix A Name For It.")
 
 word_banks = {
     "Adjectives": ["Quantum", "Turbo", "Hyper", "Cursed", "Fuzzy", "Glitchy", "Invisible", "Magic"],
-    "Tech Terms": ["Bot", "LLM", "Prompt", "Neuron", "Blockchain", "API", "Kernel", "Script"],
+    "Tech": ["Bot", "LLM", "Prompt", "Neuron", "Blockchain", "API", "Kernel", "Script"],
     "Animals": ["Panther", "Llama", "Falcon", "Sloth", "Pigeon", "Cobra", "Whale"],
     "Food": ["Samosa", "Mango", "Pickle", "Noodle", "Tofu", "Biryani", "Dumpling"],
     "Funny Things": ["Toaster", "Blob", "Sock", "Trashcan", "Laserbeam", "Spoon", "Cactus"],
     "AI":["Neural", "Gen", "Predict", "Agent", "Model", "Tensor", "Intelligent", "Adaptive"],
     "Academic":["Book", "Note", "Nerd", "Smart", "Topper", "Textbook", "Tutor", "Tution"],
-    "Creative":["Vision", "Dream", "Novel", "New", "Wonder", "Aesthetic", "Fun", "Invent"]
+    "Creative":["Vision", "Dream", "Novel", "New", "Wonder", "Aesthetic", "Fun", "Invent"],
 }
 
 st.title("🚀 Project Name Generator")
