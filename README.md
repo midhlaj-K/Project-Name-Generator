@@ -1,108 +1,78 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name Generator] 🎯
+# Project Name Generator 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Somebody
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Muhammed Midhlaj K - TKM College of Engineering
 
-Project Description
-
+### Project Description
 A chaotic Streamlit app that gives your boring project a random, over-the-top name using buzzwords from AI, food, animals, and more.This is the ultimate procrastination tool disguised as productivity.
 
-The Problem (that doesn't exist)
-
+### The Problem (that doesn't exist)
 Too many projects. Not enough ridiculous names.Your project deserves a name that sounds like it was created by a VC-fueled fever dream.
+You can't let your proffessor think that you spent all night fixing a name.
 
-The Solution (that nobody asked for)
-
+### The Solution (that nobody asked for)
 A buzzword blender that helps you combine "Quantum" with "Toaster", or "Hyper" with "Cactus", to create names your team will never forget (or be able to explain).
 
-Technical Details
-
+## Technical Details
+### Technologies/Components Used
 For Software:
-
-Languages Used: 
-- Python
-
-Frameworks Used: 
-- Streamlit
-
-Libraries Used: 
--random
-
-Tools Used: 
-- Streamlit
+- Python 🐍
+- Streamlit 👑
+- random 🎲
 
 For Hardware:
+- A (not so)Working Brain 🧠
 
-- A (not so)working brain 🧠
-
-Implementation
-
+### Implementation
 For Software:
-
-Installation
-
+# Installation
+```bash
 pip install streamlit
+git clone https://github.com/midhlaj-K/Project-Name-Generator.git
+```
 
-Run
+# Run
+for Windows,
+```bash
+python.exe -m streamlit run main.py
+```
+Others,
+```bash
+streamlit run main.py
+```
 
-streamlit run name_generator.py### Project Documentation
+### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Loaded Screen](one.png)
+*This is the screen that you see at first*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Output Screen](two.png)
+*Now you got an output*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Output Screen2](three.png)
+*Now you got another output*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[recording.mp4]
+*You choose the first and second word, and let the magic do it's work with each click*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Muhammed Midhlaj K - All Of It.All Alone. 😢
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
