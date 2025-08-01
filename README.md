@@ -29,21 +29,21 @@ Technical Details
 
 For Software:
 
-Languages Used: Python
+Languages Used: 
+- Python
 
-Frameworks Used: Streamlit
+Frameworks Used: 
+- Streamlit
 
-Libraries Used: random
+Libraries Used: 
+-random
 
-Tools Used: Streamlit, your sense of humor
+Tools Used: 
+- Streamlit
 
 For Hardware:
 
-Your imagination 💡
-
-A working brain 🧠
-
-A computer with internet 🤖
+- A (not so)working brain 🧠
 
 Implementation
 
