@@ -63,11 +63,10 @@ For Software:
 *Now you got another output*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+![Workflow](flow.png)
 ### Project Demo
 # Video
-[recording.mp4]
+![recording.mp4]
 *You choose the first and second word, and let the magic do it's work with each click*
 
 
