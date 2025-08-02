@@ -40,6 +40,8 @@ git clone https://github.com/midhlaj-K/Project-Name-Generator.git
 ```
 
 # Run
+Click here to see [deployed version](https://project-name-generator.streamlit.app/)
+
 for Windows,
 ```bash
 python.exe -m streamlit run main.py
